@@ -1,0 +1,707 @@
+2018-07-15 22:15:51,583- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:15:51] "[37mGET / HTTP/1.1[0m" 200 -
+2018-07-15 22:15:52,634- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:15:52] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:15:52,649- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:15:52] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:15:53,632- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:15:53] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:15:54,633- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:15:54] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:15:55,633- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:15:55] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:15:56,636- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:15:56] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:15:57,637- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:15:57] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:15:58,636- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:15:58] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:15:58,641- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:15:58] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:15:59,637- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:15:59] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:00,636- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:00] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:01,636- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:01] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:02,650- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:02] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:03,035- root - INFO : got item_url html..
+2018-07-15 22:16:03,109- root - INFO : got review summary..
+2018-07-15 22:16:03,640- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:03] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:04,637- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:04] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:04,643- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:04] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:05,457- root - INFO : got review top page html..
+2018-07-15 22:16:05,638- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:05] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:06,641- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:06] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:06,967- root - INFO : got review all page href..
+2018-07-15 22:16:07,642- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:07] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:08,642- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:08] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:09,642- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:09] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:10,506- root - INFO : 
+author_name: Amazon カスタマー
+star_counts: 5
+reviewed_at: 2017-02-16 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AETOZZPTK7VUFZRGBCNGLFWIT7PQ/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 24
+reviews: 18
+reviewer_ranking: 468943
+
+2018-07-15 22:16:10,643- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:10] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:10,648- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:10] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:11,643- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:11] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:12,642- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:12] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:13,165- root - INFO : 
+author_name: ６アルク－１
+star_counts: 5
+reviewed_at: 2016-02-17 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AFGLK4RCPOI6CN4ZO3JGYBWLKLYQ/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 486
+reviews: 284
+reviewer_ranking: 5619
+
+2018-07-15 22:16:13,642- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:13] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:14,643- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:14] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:15,642- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:15] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:16,649- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:16] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:16,660- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:16] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:17,650- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:17] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:17,900- root - WARNING : NAME そこぽち TRY 1: CATCH ERRORS, RETRY..
+2018-07-15 22:16:18,645- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:18] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:18,813- root - WARNING : NAME そこぽち TRY 2: CATCH ERRORS, RETRY..
+2018-07-15 22:16:19,645- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:19] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:20,648- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:20] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:21,699- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:21] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:22,254- root - INFO : 
+author_name: そこぽち
+star_counts: 5
+reviewed_at: 2015-03-21 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AEN6ZT6Y5LKHWFTOEGXVHW4P25GA/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 718
+reviews: 206
+reviewer_ranking: 998
+
+2018-07-15 22:16:23,135- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:23] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:23,148- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:23] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:24,631- root - INFO : 
+author_name: SASAKI
+star_counts: 5
+reviewed_at: 2017-06-03 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AEWU43UENTIXLJNAZWHDLFKAZZRQ/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 59
+reviews: 40
+reviewer_ranking: 59362
+
+2018-07-15 22:16:25,056- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:25] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:26,887- root - INFO : 
+author_name: トロトロ
+star_counts: 5
+reviewed_at: 2015-09-11 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AFXOYHSHBEAYVSKAJH5PE7Q7IDNA/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 24
+reviews: 16
+reviewer_ranking: 649383
+
+2018-07-15 22:16:29,905- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:29] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:29,911- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:29] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:33,218- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:33] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:34,167- root - INFO : 
+author_name: なお。
+star_counts: 3
+reviewed_at: 2017-07-29 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AEDUV7PSN4SHYM6WSBNR5LWUKTMQ/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 193
+reviews: 42
+reviewer_ranking: 34198
+
+2018-07-15 22:16:36,583- root - INFO : 
+author_name: ショコラティエ
+star_counts: 5
+reviewed_at: 2017-03-19 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AFTLGRAZKLOXT7UEC3ROPROYF7XA/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 20
+reviews: 32
+reviewer_ranking: 193937
+
+2018-07-15 22:16:39,015- root - INFO : 
+author_name: HC
+star_counts: 3
+reviewed_at: 2017-09-18 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AGP6A3YDGDSWHUD6FCASJGO5T3FQ/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 111
+reviews: 48
+reviewer_ranking: 30295
+
+2018-07-15 22:16:40,697- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:40] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:40,702- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:40] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:45,884- root - INFO : 
+author_name: 鞠
+star_counts: 5
+reviewed_at: 2017-05-29 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AEAZ6UEVXK4STFG4SZBIRRNXMTOQ/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 408
+reviews: 146
+reviewer_ranking: 7205
+
+2018-07-15 22:16:48,088- root - INFO : 
+author_name: がが
+star_counts: 4
+reviewed_at: 2018-01-23 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AHVEZ52OUZ5YUVNCCTMFFKZB5B5A/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 107
+reviews: 170
+reviewer_ranking: 38097
+
+2018-07-15 22:16:52,777- root - INFO : 
+author_name: inoino
+star_counts: 5
+reviewed_at: 2017-07-09 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AEPWIAWNONIZI7MRTQJKTNOKXGPQ/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 8
+reviews: 7
+reviewer_ranking: 560886
+
+2018-07-15 22:16:54,532- root - INFO : 
+author_name: Amazon カスタマー
+star_counts: 5
+reviewed_at: 2018-05-26 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AGT5T3FN6IOYQMRTN46X55X3QARA/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 14
+reviews: 13
+reviewer_ranking: 191257
+
+2018-07-15 22:16:57,149- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:57] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:57,154- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:16:57] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:16:59,827- root - INFO : 
+author_name: alicia
+star_counts: 5
+reviewed_at: 2017-01-22 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AGCKZ4PS2XFSJE6WDETTXRY2TERQ/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 2
+reviews: 6
+reviewer_ranking: 1656627
+
+2018-07-15 22:17:01,073- root - WARNING : NAME Amazon カスタマー TRY 1: CATCH ERRORS, RETRY..
+2018-07-15 22:17:03,153- root - INFO : 
+author_name: Amazon カスタマー
+star_counts: 5
+reviewed_at: 2015-08-21 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AG4OG3LOY35VZMP7STI6VG3RKVIQ/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 4
+reviews: 3
+reviewer_ranking: 1817688
+
+2018-07-15 22:17:04,785- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:04] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:04,822- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:04] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:04,843- root - INFO : 
+author_name: Amazon カスタマー
+star_counts: 4
+reviewed_at: 2016-02-27 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AEY72MO7EFJWKJ3G2ZK5PITBQV4Q/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 36
+reviews: 12
+reviewer_ranking: 493045
+
+2018-07-15 22:17:07,332- root - INFO : 
+author_name: サボテン
+star_counts: 4
+reviewed_at: 2017-06-07 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AHBBALSJNURCTPZ26HIDXEA3VQDQ/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 110
+reviews: 46
+reviewer_ranking: 27892
+
+2018-07-15 22:17:09,794- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:09] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:10,791- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:10] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:10,799- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:10] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:11,792- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:11] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:12,797- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:12] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:13,791- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:13] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:14,484- root - INFO : 
+author_name: Amazon カスタマー
+star_counts: 5
+reviewed_at: 2016-09-28 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AGYOQCRKJ2WCF3PBOQ6RZZPCEY7Q/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 3
+reviews: 4
+reviewer_ranking: 1727485
+
+2018-07-15 22:17:14,793- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:14] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:15,797- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:15] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:16,794- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:16] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:16,799- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:16] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:17,794- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:17] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:18,795- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:18] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:19,795- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:19] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:20,213- root - INFO : 
+author_name: なたね。
+star_counts: 4
+reviewed_at: 2015-09-06 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AF4JQDTSVBWTGBBB7ZPMMUBPI7BQ/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 29
+reviews: 25
+reviewer_ranking: 133127
+
+2018-07-15 22:17:20,797- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:20] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:21,795- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:21] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:22,054- root - INFO : 
+author_name: アマゾン太郎
+star_counts: 3
+reviewed_at: 2015-04-16 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AGR224EWCBRQU4PQNXESSFKAWVHA/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 257
+reviews: 33
+reviewer_ranking: 30075
+
+2018-07-15 22:17:22,796- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:22] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:22,801- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:22] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:23,798- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:23] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:24,798- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:24] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:25,799- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:25] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:26,803- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:26] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:27,801- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:27] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:28,799- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:28] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:28,804- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:28] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:17:29,606- root - INFO : 
+author_name: Amazon カスタマー
+star_counts: 5
+reviewed_at: 2015-06-02 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AGA6DJ6SBAMZA3R2OWLUHD6GYGXQ/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 143
+reviews: 23
+reviewer_ranking: 128105
+
+2018-07-15 22:17:29,611- root - INFO : got all each review..
+2018-07-15 22:17:29,620- root - INFO : 
+            name score reviewed_at  \
+0   Amazon カスタマー     5  2017-02-16   
+1         ６アルク－１     5  2016-02-17   
+2           そこぽち     5  2015-03-21   
+3         SASAKI     5  2017-06-03   
+4           トロトロ     5  2015-09-11   
+5            なお。     3  2017-07-29   
+6        ショコラティエ     5  2017-03-19   
+7             HC     3  2017-09-18   
+8              鞠     5  2017-05-29   
+9             がが     4  2018-01-23   
+10        inoino     5  2017-07-09   
+11  Amazon カスタマー     5  2018-05-26   
+12        alicia     5  2017-01-22   
+13  Amazon カスタマー     5  2015-08-21   
+14  Amazon カスタマー     4  2016-02-27   
+15          サボテン     4  2017-06-07   
+16  Amazon カスタマー     5  2016-09-28   
+17          なたね。     4  2015-09-06   
+18        アマゾン太郎     3  2015-04-16   
+19  Amazon カスタマー     5  2015-06-02   
+
+                                                  url helpful_votes reviews  \
+0   https://www.amazon.co.jp/gp/profile/amzn1.acco...            24      18   
+1   https://www.amazon.co.jp/gp/profile/amzn1.acco...           486     284   
+2   https://www.amazon.co.jp/gp/profile/amzn1.acco...           718     206   
+3   https://www.amazon.co.jp/gp/profile/amzn1.acco...            59      40   
+4   https://www.amazon.co.jp/gp/profile/amzn1.acco...            24      16   
+5   https://www.amazon.co.jp/gp/profile/amzn1.acco...           193      42   
+6   https://www.amazon.co.jp/gp/profile/amzn1.acco...            20      32   
+7   https://www.amazon.co.jp/gp/profile/amzn1.acco...           111      48   
+8   https://www.amazon.co.jp/gp/profile/amzn1.acco...           408     146   
+9   https://www.amazon.co.jp/gp/profile/amzn1.acco...           107     170   
+10  https://www.amazon.co.jp/gp/profile/amzn1.acco...             8       7   
+11  https://www.amazon.co.jp/gp/profile/amzn1.acco...            14      13   
+12  https://www.amazon.co.jp/gp/profile/amzn1.acco...             2       6   
+13  https://www.amazon.co.jp/gp/profile/amzn1.acco...             4       3   
+14  https://www.amazon.co.jp/gp/profile/amzn1.acco...            36      12   
+15  https://www.amazon.co.jp/gp/profile/amzn1.acco...           110      46   
+16  https://www.amazon.co.jp/gp/profile/amzn1.acco...             3       4   
+17  https://www.amazon.co.jp/gp/profile/amzn1.acco...            29      25   
+18  https://www.amazon.co.jp/gp/profile/amzn1.acco...           257      33   
+19  https://www.amazon.co.jp/gp/profile/amzn1.acco...           143      23   
+
+   reviewer_ranking  
+0            468943  
+1              5619  
+2               998  
+3             59362  
+4            649383  
+5             34198  
+6            193937  
+7             30295  
+8              7205  
+9             38097  
+10           560886  
+11           191257  
+12          1656627  
+13          1817688  
+14           493045  
+15            27892  
+16          1727485  
+17           133127  
+18            30075  
+19           128105  
+2018-07-15 22:17:29,630- root - INFO : 
+Empty DataFrame
+Columns: [name, score, reviewed_at, url, helpful_votes, reviews, reviewer_ranking, stealth_probability]
+Index: []
+2018-07-15 22:17:29,799- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:17:29] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:18:58,488- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:18:58] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2018-07-15 22:18:58,527- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:18:58] "[37mGET / HTTP/1.1[0m" 200 -
+2018-07-15 22:18:59,573- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:18:59] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:18:59,580- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:18:59] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:00,571- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:00] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:01,573- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:01] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:02,574- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:02] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:03,579- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:03] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:04,576- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:04] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:05,573- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:05] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:05,581- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:05] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:06,574- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:06] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:07,209- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:07] "[37mGET / HTTP/1.1[0m" 200 -
+2018-07-15 22:19:08,247- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:08] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:09,249- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:09] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:09,836- root - INFO : got item_url html..
+2018-07-15 22:19:09,895- root - INFO : got review summary..
+2018-07-15 22:19:10,250- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:10] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:12,895- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:12] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2018-07-15 22:19:12,915- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:12] "[37mGET / HTTP/1.1[0m" 200 -
+2018-07-15 22:19:13,518- root - INFO : got review top page html..
+2018-07-15 22:19:13,563- root - INFO : got review all page href..
+2018-07-15 22:19:13,968- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:13] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:13,973- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:13] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:14,975- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:14] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:15,968- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:15] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:16,971- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:16] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:17,968- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:17] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:18,970- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:18] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:19,971- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:19] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:19,976- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:19] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:20,342- root - WARNING : NAME すー TRY 1: CATCH ERRORS, RETRY..
+2018-07-15 22:19:20,972- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:20] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:21,971- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:21] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:22,972- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:22] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:23,972- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:23] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:24,338- root - INFO : 
+author_name: すー
+star_counts: 4
+reviewed_at: 2018-06-21 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AGDWOO3ZDXZZPUJNJC5TYDJIJIIA/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 4
+reviews: 24
+reviewer_ranking: 317858
+
+2018-07-15 22:19:24,971- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:24] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:25,973- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:25] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:25,979- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:25] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:26,974- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:26] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:27,976- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:27] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:28,816- root - WARNING : NAME nana TRY 1: CATCH ERRORS, RETRY..
+2018-07-15 22:19:28,979- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:28] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:29,974- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:29] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:30,978- root - INFO : 
+author_name: nana
+star_counts: 3
+reviewed_at: 2018-07-11 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AFJMBWXUOIHHYZHP5TNPOIJHS3ZQ/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 7
+reviews: 3
+reviewer_ranking: 1101000
+
+2018-07-15 22:19:30,984- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:30] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:31,975- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:31] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:31,981- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:31] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:32,552- root - INFO : got item_url html..
+2018-07-15 22:19:32,606- root - INFO : got review summary..
+2018-07-15 22:19:32,977- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:32] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:33,976- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:33] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:34,977- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:34] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:35,134- root - INFO : got review top page html..
+2018-07-15 22:19:35,171- root - INFO : got review all page href..
+2018-07-15 22:19:35,428- root - INFO : 
+author_name: ukiuki
+star_counts: 5
+reviewed_at: 2018-06-24 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AHX6ZUNSYPKWWNT2BQGMMXOKAP7A/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 52
+reviews: 28
+reviewer_ranking: 110008
+
+2018-07-15 22:19:35,981- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:35] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:36,977- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:36] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:38,004- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:38] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:38,055- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:38] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:38,172- root - INFO : 
+author_name: Amazon カスタマー
+star_counts: 5
+reviewed_at: 2018-06-30 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AHQFUC3736FT5YRUWOPPZM7HFCBA/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 270
+reviews: 4
+reviewer_ranking: 49278
+
+2018-07-15 22:19:38,981- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:38] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:39,983- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:39] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:40,985- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:40] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:41,983- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:41] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:42,849- root - INFO : 
+author_name: すー
+star_counts: 4
+reviewed_at: 2018-06-21 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AGDWOO3ZDXZZPUJNJC5TYDJIJIIA/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 4
+reviews: 24
+reviewer_ranking: 317858
+
+2018-07-15 22:19:42,981- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:42] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:43,983- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:43] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:43,990- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:43] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:44,906- root - INFO : 
+author_name: メモリを買いました
+star_counts: 5
+reviewed_at: 2018-06-29 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AHQN5TW75WVFOMER5X2HFD7WENCQ/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 11
+reviews: 6
+reviewer_ranking: 406554
+
+2018-07-15 22:19:44,983- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:44] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:45,985- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:45] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:46,668- root - INFO : 
+author_name: nana
+star_counts: 3
+reviewed_at: 2018-07-11 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AFJMBWXUOIHHYZHP5TNPOIJHS3ZQ/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 7
+reviews: 3
+reviewer_ranking: 1101000
+
+2018-07-15 22:19:46,984- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:46] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:47,997- root - INFO : 
+author_name: @青空
+star_counts: 5
+reviewed_at: 2018-05-06 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AGPUVWRSIQ7JSTBD6YZTZPHOPFMQ/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 47
+reviews: 28
+reviewer_ranking: 110325
+
+2018-07-15 22:19:48,004- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:48] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:49,016- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:49] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:49,107- root - INFO : 
+author_name: ukiuki
+star_counts: 5
+reviewed_at: 2018-06-24 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AHX6ZUNSYPKWWNT2BQGMMXOKAP7A/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 52
+reviews: 28
+reviewer_ranking: 110008
+
+2018-07-15 22:19:49,987- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:49] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:49,994- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:49] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:50,785- root - INFO : 
+author_name: Amazon カスタマー
+star_counts: 5
+reviewed_at: 2018-06-30 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AHQFUC3736FT5YRUWOPPZM7HFCBA/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 270
+reviews: 4
+reviewer_ranking: 49278
+
+2018-07-15 22:19:50,988- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:50] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:51,771- root - INFO : 
+author_name: にねを
+star_counts: 4
+reviewed_at: 2018-07-06 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AGVP2OJLGW4AG5AL6JLGNDY33OQA/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 58
+reviews: 77
+reviewer_ranking: 38578
+
+2018-07-15 22:19:51,988- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:51] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:53,096- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:53] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:53,254- root - WARNING : NAME メモリを買いました TRY 1: CATCH ERRORS, RETRY..
+2018-07-15 22:19:53,989- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:53] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:54,994- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:54] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:55,992- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:55] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:56,001- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:56] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:57,025- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:57] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:57,092- root - INFO : 
+author_name: 松本麻里
+star_counts: 4
+reviewed_at: 2018-05-27 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AH7X2XHDYFJKE5HBSMI476KGRVFQ/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 60
+reviews: 20
+reviewer_ranking: 155967
+
+2018-07-15 22:19:57,294- root - INFO : 
+author_name: メモリを買いました
+star_counts: 5
+reviewed_at: 2018-06-29 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AHQN5TW75WVFOMER5X2HFD7WENCQ/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 11
+reviews: 6
+reviewer_ranking: 406554
+
+2018-07-15 22:19:57,991- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:57] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:58,991- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:58] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:19:59,390- root - INFO : 
+author_name: @青空
+star_counts: 5
+reviewed_at: 2018-05-06 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AGPUVWRSIQ7JSTBD6YZTZPHOPFMQ/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 47
+reviews: 28
+reviewer_ranking: 110325
+
+2018-07-15 22:19:59,994- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:19:59] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:20:00,522- root - INFO : 
+author_name: あき
+star_counts: 5
+reviewed_at: 2018-02-16 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AFWMFJBABZIN6JENK6VPNEMCBK5A/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 8
+reviews: 11
+reviewer_ranking: 646896
+
+2018-07-15 22:20:00,992- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:20:00] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:20:01,550- root - INFO : 
+author_name: にねを
+star_counts: 4
+reviewed_at: 2018-07-06 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AGVP2OJLGW4AG5AL6JLGNDY33OQA/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 58
+reviews: 77
+reviewer_ranking: 38578
+
+2018-07-15 22:20:01,994- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:20:01] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:20:02,000- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:20:02] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:20:02,495- root - INFO : 
+author_name: Amazon カスタマー
+star_counts: 5
+reviewed_at: 2018-03-29 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AGANWYVTSUNNQVPKSIUKWMNNIJHQ/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 1
+reviews: 1
+reviewer_ranking: 5765960
+
+2018-07-15 22:20:02,501- root - INFO : got all each review..
+2018-07-15 22:20:02,507- root - INFO : 
+           name score reviewed_at  \
+0            すー     4  2018-06-21   
+1          nana     3  2018-07-11   
+2        ukiuki     5  2018-06-24   
+3  Amazon カスタマー     5  2018-06-30   
+4     メモリを買いました     5  2018-06-29   
+5           @青空     5  2018-05-06   
+6           にねを     4  2018-07-06   
+7          松本麻里     4  2018-05-27   
+8            あき     5  2018-02-16   
+9  Amazon カスタマー     5  2018-03-29   
+
+                                                 url helpful_votes reviews  \
+0  https://www.amazon.co.jp/gp/profile/amzn1.acco...             4      24   
+1  https://www.amazon.co.jp/gp/profile/amzn1.acco...             7       3   
+2  https://www.amazon.co.jp/gp/profile/amzn1.acco...            52      28   
+3  https://www.amazon.co.jp/gp/profile/amzn1.acco...           270       4   
+4  https://www.amazon.co.jp/gp/profile/amzn1.acco...            11       6   
+5  https://www.amazon.co.jp/gp/profile/amzn1.acco...            47      28   
+6  https://www.amazon.co.jp/gp/profile/amzn1.acco...            58      77   
+7  https://www.amazon.co.jp/gp/profile/amzn1.acco...            60      20   
+8  https://www.amazon.co.jp/gp/profile/amzn1.acco...             8      11   
+9  https://www.amazon.co.jp/gp/profile/amzn1.acco...             1       1   
+
+  reviewer_ranking  
+0           317858  
+1          1101000  
+2           110008  
+3            49278  
+4           406554  
+5           110325  
+6            38578  
+7           155967  
+8           646896  
+9          5765960  
+2018-07-15 22:20:02,519- root - INFO : 
+           name score reviewed_at  \
+0            すー     4  2018-06-21   
+9  Amazon カスタマー     5  2018-03-29   
+
+                                                 url helpful_votes reviews  \
+0  https://www.amazon.co.jp/gp/profile/amzn1.acco...             4      24   
+9  https://www.amazon.co.jp/gp/profile/amzn1.acco...             1       1   
+
+  reviewer_ranking  stealth_probability  
+0           317858                  0.5  
+9          5765960                  1.0  
+2018-07-15 22:20:02,993- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:20:02] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:20:03,720- root - INFO : 
+author_name: 松本麻里
+star_counts: 4
+reviewed_at: 2018-05-27 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AH7X2XHDYFJKE5HBSMI476KGRVFQ/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 60
+reviews: 20
+reviewer_ranking: 155967
+
+2018-07-15 22:20:08,658- root - INFO : 
+author_name: あき
+star_counts: 5
+reviewed_at: 2018-02-16 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AFWMFJBABZIN6JENK6VPNEMCBK5A/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 8
+reviews: 11
+reviewer_ranking: 646896
+
+2018-07-15 22:20:10,802- root - INFO : 
+author_name: Amazon カスタマー
+star_counts: 5
+reviewed_at: 2018-03-29 00:00:00
+author_url: https://www.amazon.co.jp/gp/profile/amzn1.account.AGANWYVTSUNNQVPKSIUKWMNNIJHQ/ref%3Dcm_cr_arp_d_pdp%3Fie%3DUTF8
+helpful_votes: 1
+reviews: 1
+reviewer_ranking: 5765960
+
+2018-07-15 22:20:10,809- root - INFO : got all each review..
+2018-07-15 22:20:10,814- root - INFO : 
+           name score reviewed_at  \
+0            すー     4  2018-06-21   
+1          nana     3  2018-07-11   
+2        ukiuki     5  2018-06-24   
+3  Amazon カスタマー     5  2018-06-30   
+4     メモリを買いました     5  2018-06-29   
+5           @青空     5  2018-05-06   
+6           にねを     4  2018-07-06   
+7          松本麻里     4  2018-05-27   
+8            あき     5  2018-02-16   
+9  Amazon カスタマー     5  2018-03-29   
+
+                                                 url helpful_votes reviews  \
+0  https://www.amazon.co.jp/gp/profile/amzn1.acco...             4      24   
+1  https://www.amazon.co.jp/gp/profile/amzn1.acco...             7       3   
+2  https://www.amazon.co.jp/gp/profile/amzn1.acco...            52      28   
+3  https://www.amazon.co.jp/gp/profile/amzn1.acco...           270       4   
+4  https://www.amazon.co.jp/gp/profile/amzn1.acco...            11       6   
+5  https://www.amazon.co.jp/gp/profile/amzn1.acco...            47      28   
+6  https://www.amazon.co.jp/gp/profile/amzn1.acco...            58      77   
+7  https://www.amazon.co.jp/gp/profile/amzn1.acco...            60      20   
+8  https://www.amazon.co.jp/gp/profile/amzn1.acco...             8      11   
+9  https://www.amazon.co.jp/gp/profile/amzn1.acco...             1       1   
+
+  reviewer_ranking  
+0           317858  
+1          1101000  
+2           110008  
+3            49278  
+4           406554  
+5           110325  
+6            38578  
+7           155967  
+8           646896  
+9          5765960  
+2018-07-15 22:20:10,824- root - INFO : 
+           name score reviewed_at  \
+0            すー     4  2018-06-21   
+9  Amazon カスタマー     5  2018-03-29   
+
+                                                 url helpful_votes reviews  \
+0  https://www.amazon.co.jp/gp/profile/amzn1.acco...             4      24   
+9  https://www.amazon.co.jp/gp/profile/amzn1.acco...             1       1   
+
+  reviewer_ranking  stealth_probability  
+0           317858                  0.5  
+9          5765960                  1.0  
+2018-07-15 22:24:31,811- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:24:31] "[37mGET / HTTP/1.1[0m" 200 -
+2018-07-15 22:24:31,829- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:24:31] "[37mGET /static/js/progress.js HTTP/1.1[0m" 200 -
+2018-07-15 22:24:33,009- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:24:33] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:24:33,015- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:24:33] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:26:09,884- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:26:09] "[37mGET / HTTP/1.1[0m" 200 -
+2018-07-15 22:26:10,927- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:26:10] "[37mOPTIONS /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:26:10,934- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:26:10] "[37mPOST /progress HTTP/1.1[0m" 200 -
+2018-07-15 22:26:14,408- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:26:14] "[37mGET / HTTP/1.1[0m" 200 -
+2018-07-15 22:26:14,435- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:26:14] "[37mGET /static/js/progress.js HTTP/1.1[0m" 200 -
+2018-07-15 22:26:15,684- werkzeug - INFO : 127.0.0.1 - - [15/Jul/2018 22:26:15] "[37mPOST /progress HTTP/1.1[0m" 200 -

@@ -1,0 +1,65 @@
+{% extends "layout.html" %}
+{% block body %}
+<h1>Amazon Web Shop Stealth Checker</h1>
+    <form action="{{url_for('scrape')}}" method="POST">
+    <div>
+        <div>Item URL:
+            <input type=text size=50 name=item_url placeholder='Please input item url'>
+        </div>
+    </div>
+    <button type="submit" id='submit' value="Submit">START</button>
+    </form>
+
+
+    <div class="progress" style="width: 50%; margin: 5px;">
+        <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%">
+            <span class="progress-bar-label" id='progress-bar-label'>0%</span>
+        </div>
+    </div>
+
+    <div>
+        STATUS: <div id='status' style='display: inline-block;'></div>
+    </div>
+
+    <form action="{{url_for('scrape')}}" method="POST">
+        {% autoescape False %}
+            {{ convert_stop_html }}
+        {% endautoescape %}
+    </form>
+    
+
+    <hr>
+    
+
+    <p>After scraping, data will be shown up.</p>
+    <p>===================</p>
+    <p>TOTAL REVIEW DATA</p>
+    <p>
+    <div>item_title: <div id='item_title' style='display: inline-block;'></div></div>
+    <div>totalReviewCount: <div id='totalReviewCount' style='display: inline-block;'></div></div>
+    <div>totalReviewRating: <div id='totalReviewRating' style='display: inline-block;'></div></div>
+    <div>meter5Star: <div id='meter5Star' style='display: inline-block;'></div></div>
+    <div>meter4Star: <div id='meter4Star' style='display: inline-block;'></div></div>
+    <div>meter3Star: <div id='meter3Star' style='display: inline-block;'></div></div>
+    <div>meter2Star: <div id='meter2Star' style='display: inline-block;'></div></div>
+    <div>meter1Star: <div id='meter1Star' style='display: inline-block;'></div></div>
+    </p>
+    <p>===================</p>
+    <p>STEALTH ANALYSIS DATA</p>
+    <p>
+    <div>stealth_percentage: <div id='stealth_percentage' style='display: inline-block;'></div></div>
+    <div>high_probability_stealth_reviwer_count: <div id='high_probability_stealth_reviwer_count' style='display: inline-block;'></div></div>
+    <div>low_probabilty_stealth_reviewer_count: <div id='low_probabilty_stealth_reviewer_count' style='display: inline-block;'></div></div>
+    <div>wrong_data_reviewer_count: <div id='wrong_data_reviewer_count' style='display: inline-block;'></div></div>
+    </p>
+    <p>===================</p>
+    <p>STEALTH PROBABILITY REVIEW</p>
+    <p>
+    <div id='high_probability_stealth_reviwers'></div>
+    <div id='low_probability_stealth_reviewers'></div>
+    <div id='wrong_data_reviewers'></div>
+    </p>
+
+
+
+{% endblock %}
