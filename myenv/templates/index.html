@@ -2,14 +2,15 @@
 {% block body %}
 <h1>Amazon Web Shop Stealth Checker</h1>
     <form action="{{url_for('scrape')}}" method="POST">
-    <div>
-        <div>Item URL:
-            <input type=text size=50 name=item_url placeholder='Please input item url'>
-        </div>
+    <div>Item URL:
+        <input type="text" size="50" name="item_url" id="item_url" placeholder='Please input item url'/>
     </div>
-    <button type="submit" id='submit' value="Submit">START</button>
+    <button class="btn btn-primary" type="submit" id='submit' name='submit'>EXECUTE</button>
     </form>
 
+    <form action="{{url_for('cancel')}}" method="POST">
+        <div><button class="btn btn-warning" type="submit" id='cancel' name='cancel' disabled>CANCEL/RESET</button></div>
+    </form>
 
     <div class="progress" style="width: 50%; margin: 5px;">
         <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%">

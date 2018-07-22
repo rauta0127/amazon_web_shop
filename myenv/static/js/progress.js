@@ -126,14 +126,17 @@ function progress() {
                 $('#wrong_data_reviewers').append(h);
             };
             
-
-
             if(data['percent'] == 100){
                 clearInterval(progressStIntr)
-                //alert("Convert Complete");
                 document.getElementById("progress-bar-label").innerText = "Complete!";
                 $(".progress-bar").removeClass('active');
                 document.getElementById("progress-bar-label").innerText = "Complete!";
+            }
+
+            if(data['percent'] > 0){
+                $("#submit").prop('disabled', true);
+                $("#item_url").prop('disabled', true);
+                $("#cancel").prop('disabled', false);
             }
 
         },
@@ -147,9 +150,52 @@ function progressCheck(time){
     progressStIntr = setInterval('progress()', time);
 }
 
+
 $('#submit').on('click', function() {
-    alert("Start");
+    $("form").submit(function() {
+        $("#submit").prop('disabled', true);
+    });
 });
+
+
+/*
+var jqxhr;
+$('#submit').click(function(event){
+    event.preventDefault();
+    var f = $('form');
+    if (jqxhr) {
+        alert("return");
+        return;
+    }
+    jqxhr = $.ajax({
+        url: f.prop('action'),
+        type: f.prop('type'),
+        data: $('form').serialize(),
+        timeout: 10000,
+        dataType: 'json'
+    })
+    .done(function(data) {
+        alert("done");
+    })
+    .fail(function(XMLHttpRequest, textStatus, errorThrown) {
+        console.log("ajax通信に失敗しました");
+        console.log("XMLHttpRequest : " + XMLHttpRequest.status);
+        console.log("textStatus     : " + textStatus);
+        console.log("errorThrown    : " + errorThrown.message);
+    })
+    .always(function(data) {
+        alert("sending successed");
+    });
+});
+*/
+
+
+
+/*
+$('#submit').on('click', function() {
+    $("#submit").prop("disabled", true);
+});
+*/
 
 progressCheck(1000)
 

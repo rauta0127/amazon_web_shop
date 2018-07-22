@@ -9,11 +9,11 @@ app = Flask(__name__)
 CORS(app)
 
 # Values
-percent = totalReviewCount = totalReviewRating = meter5Star = meter4Star = meter3Star = meter2Star = meter1Star = 0
-stealth_percentage = high_probability_stealth_reviwer_count = low_probabilty_stealth_reviewer_count = wrong_data_reviewer_count = 0
-high_probability_stealth_reviewers = low_probability_stealth_reviewers = wrong_data_reviewers = []
-item_title = ''
-status = 'URL Waiting..'
+#percent = totalReviewCount = totalReviewRating = meter5Star = meter4Star = meter3Star = meter2Star = meter1Star = 0
+#stealth_percentage = high_probability_stealth_reviwer_count = low_probabilty_stealth_reviewer_count = wrong_data_reviewer_count = 0
+#high_probability_stealth_reviewers = low_probability_stealth_reviewers = wrong_data_reviewers = []
+#item_title = ''
+#status = 'URL Waiting..'
 
 
 def reviewStealthCheck(item_url):
@@ -21,19 +21,31 @@ def reviewStealthCheck(item_url):
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
-    percent = totalReviewCount = totalReviewRating = meter5Star = meter4Star = meter3Star = meter2Star = meter1Star = 0
-    stealth_percentage = high_probability_stealth_reviwer_count = low_probabilty_stealth_reviewer_count = wrong_data_reviewer_count = 0
-    high_probability_stealth_reviewers = low_probability_stealth_reviewers = wrong_data_reviewers = []
-    item_title = ''
-    status = 'URL Waiting..'
+    #percent = totalReviewCount = totalReviewRating = meter5Star = meter4Star = meter3Star = meter2Star = meter1Star = 0
+    #stealth_percentage = high_probability_stealth_reviwer_count = low_probabilty_stealth_reviewer_count = wrong_data_reviewer_count = 0
+    #high_probability_stealth_reviewers = low_probability_stealth_reviewers = wrong_data_reviewers = []
+    #item_title = ''
+    #status = 'URL Waiting..'
+
     return render_template("index.html")
 
 @app.route('/scrape', methods=['GET', 'POST'])
 def scrape():
+    global t
+    print (request)
+    print (request.data)
     item_url = request.form['item_url']
+    print (item_url)
     t = threading.Thread(target=reviewStealthCheck, args=(item_url, ))
     t.start()
-    return redirect(url_for('index'))
+    return render_template("index.html")
+
+@app.route('/cancel', methods=['GET', 'POST'])
+def cancel():
+    review_stealth_checker.percent = 0
+    review_stealth_checker.item_title = ''
+    return render_template("index.html")
+
 
 @app.route("/progress", methods=['GET', 'POST'])
 def progress():
